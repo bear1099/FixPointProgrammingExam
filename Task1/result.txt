@@ -1,0 +1,4 @@
+Restored Server's IP Address:0.0.0.1/16,   Restoration time:2sec
+Restored Server's IP Address:10.20.30.1/16,   Restoration time:84sec
+Restored Server's IP Address:10.20.30.1/16,   Restoration time:31sec
+Not responding Server's IP Address:10.20.30.2/16
